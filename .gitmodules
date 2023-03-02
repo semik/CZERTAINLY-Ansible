@@ -1,0 +1,24 @@
+[submodule "roles/branding"]
+	path = roles/branding
+	url = https://github.com/3KeyCompany/ansible-role-czertainly-branding.git
+	branch = develop
+[submodule "roles/http-proxy"]
+	path = roles/http-proxy
+	url = https://github.com/3KeyCompany/ansible-role-http-proxy.git
+	branch = develop
+[submodule "roles/postgres"]
+	path = roles/postgres
+	url = https://github.com/3KeyCompany/ansible-role-postgres.git
+	branch = develop
+[submodule "roles/helm"]
+	path = roles/helm
+	url = https://github.com/3KeyCompany/ansible-role-helm.git
+	branch = develop
+[submodule "roles/rke2"]
+	path = roles/rke2
+	url = https://github.com/3KeyCompany/ansible-role-rke2.git
+	branch = develop
+[submodule "roles/czertainly"]
+	path = roles/czertainly
+	url = https://github.com/3KeyCompany/ansible-role-czertainly.git
+	branch = develop
