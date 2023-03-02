@@ -13,3 +13,8 @@ git submodule add -b develop https://github.com/3KeyCompany/ansible-role-helm.gi
 git submodule add -b develop https://github.com/3KeyCompany/ansible-role-rke2.git roles/rke2 
 git submodule add -b develop https://github.com/3KeyCompany/ansible-role-czertainly.git roles/czertainly
 ```
+
+## Update after checkout
+```
+git submodule update --init --recursive -j 8
+```
