@@ -1,6 +1,8 @@
 # CZERTAINLY-Ansible
 Content of `/etc/czertainly-ansible` directory for CZERTAINLY appliance.
 
+git submodule [howto](https://www.vogella.com/tutorials/GitSubmodules/article.html#delete-a-submodule-from-a-repository).
+
 ## Intialization was done:
 ```
 cd CZERTAINLY-Ansible
